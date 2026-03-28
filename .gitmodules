@@ -5,3 +5,12 @@
 [submodule "uestc_lab"]
 	path = uestc_lab
 	url = https://github.com/Kohn23/uestc_database.git
+[submodule "third/leveldb"]
+	path = third/leveldb
+	url = https://github.com/google/leveldb.git
+[submodule "third/minidb"]
+	path = third/minidb
+	url = https://github.com/nrthyrk/minidb.git
+[submodule "third/tinydb"]
+	path = third/tinydb
+	url = https://github.com/msiemens/tinydb.git
