@@ -14,3 +14,6 @@
 [submodule "third/tinydb"]
 	path = third/tinydb
 	url = https://github.com/msiemens/tinydb.git
+[submodule "third/sqlite"]
+	path = third/sqlite
+	url = https://github.com/sqlite/sqlite.git
