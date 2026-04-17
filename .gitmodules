@@ -2,9 +2,6 @@
 	path = epic
 	url = https://github.com/ShujianQian/epic-eval.git
 
-[submodule "uestc_lab"]
-	path = uestc_lab
-	url = https://github.com/Kohn23/uestc_database.git
 [submodule "third/leveldb"]
 	path = third/leveldb
 	url = https://github.com/google/leveldb.git
@@ -17,3 +14,6 @@
 [submodule "third/sqlite"]
 	path = third/sqlite
 	url = https://github.com/sqlite/sqlite.git
+[submodule "uestc-lab"]
+	path = uestc-lab
+	url = https://github.com/Kohn23/uestc-database.git
