@@ -16,4 +16,4 @@
 	url = https://github.com/sqlite/sqlite.git
 [submodule "uestc-lab"]
 	path = uestc-lab
-	url = https://github.com/Kohn23/uestc-database.git
+	url = https://github.com/Wuhaoze233/waterfall-db.git
